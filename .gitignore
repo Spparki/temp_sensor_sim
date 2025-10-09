@@ -1,0 +1,14 @@
+# colcon / ros2
+build/
+install/
+log/
+
+# python
+*.pyc
+__pycache__/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp

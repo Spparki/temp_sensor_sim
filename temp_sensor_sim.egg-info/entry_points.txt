@@ -1,0 +1,3 @@
+[console_scripts]
+sensor_publisher = temp_sensor_sim.sensor_publisher:main
+

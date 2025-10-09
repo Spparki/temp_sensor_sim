@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: temp-sensor-sim
+Version: 0.0.1
+Summary: Simple sensor simulator node publishing Float32 on /sim/temp
+Home-page: UNKNOWN
+Maintainer: Jakub Balenkowski
+Maintainer-email: jakubbalenkowski@gmail.com
+License: Apache License 2.0
+Platform: UNKNOWN
+
+UNKNOWN
+
